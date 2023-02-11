@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(120, 220, 183);
+    font-family: 'Montserrat';
+}
+
+input[type=checkbox]:checked + label {
+    text-decoration: line-through;
+  }
+
+  .strike {
+    text-decoration: line-through;
+  }
+
+
+
+
